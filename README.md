@@ -1,4 +1,6 @@
-﻿# Phone-QA-Json-DB-Importer
+DEPRECATED
+ 
+ # Phone-QA-Json-DB-Importer
 Automated Phone QA System for Global Tech Solutions
 &lt;p align="center">
 &lt;img src="https://img.shields.io/badge/Python-3.13-3776AB?logo=python" alt="Python 3.13">
